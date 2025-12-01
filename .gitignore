@@ -45,3 +45,7 @@ firebase-adminsdk-*.json
 
 # Other
 node_modules/
+
+# Firebase secret
+career-craft-*-firebase-adminsdk-*.json
+*.json
