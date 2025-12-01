@@ -1,0 +1,47 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+.env.*
+.venv/
+VENV/
+ENV/
+
+# Python packaging/build
+build/
+dist/
+*.egg-info/
+
+# Editor / OS files
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Database / local files
+*.sqlite3
+instance/
+*.db
+
+# Logs
+*.log
+logs/
+*.bak
+
+# Firebase admin SDK config if you accidentally added
+firebase_admin_config.py
+firebase-adminsdk-*.json
+
+# Other
+node_modules/
