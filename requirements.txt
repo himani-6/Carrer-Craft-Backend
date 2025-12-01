@@ -5,8 +5,8 @@ python-multipart
 numpy
 pdfminer.six
 langchain
-ollama
 python-docx
 PyMuPDF
 requests
 firebase-admin
+python-dotenv
