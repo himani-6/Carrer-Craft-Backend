@@ -10,3 +10,5 @@ PyMuPDF
 requests
 firebase-admin
 python-dotenv
+docx2txt
+
